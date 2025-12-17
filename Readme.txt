@@ -1,4 +1,5 @@
-mongodb+srv://Lakshminarayana:<db_password>@cluster0.h9swnul.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://<Kesava392>:<password>@cluster0.mongodb.net/
+
 
 
 npm install mongodb@5.5
